@@ -1,7 +1,7 @@
 # DFD-based-on-power-spectrum
 复现：基于一维功率谱的Deepfake Detection
 
-## 使用了三种分类器：SVM，LR，密集链接网络
+## 使用了三种分类器：SVM，LR，神经网络
 在训练集验证集为40k张的情况下（8：2）：
  ```
     SVM acc达到96.6%
